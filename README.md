@@ -16,6 +16,7 @@ Skills são arquivos `SKILL.md` que instruem o Claude a se comportar como um esp
 |-------|---------|-----------|
 | [storytelling-dados](./skills/storytelling-dados/SKILL.md) | Dados & Visualização | Especialista em comunicação visual de dados baseado nos princípios de Cole Nussbaumer Knaflic. Cobre escolha de gráficos, eliminação de saturação, atributos pré-atentivos, narrativa com dados e checklists de publicação. |
 | [regulacao-reach](./skills/regulacao-reach/SKILL.md) | Conformidade Química / Exportação para UE | Especialista em Regulamento REACH (CE nº 1907/2006) para fabricantes, importadores, distribuidores e utilizadores a jusante. Cobre registo de substâncias, SVHC/Lista Candidata, Anexo XIV (autorização), Anexo XVII (restrições), FDS/SDS com cenários de exposição, Only Representative para exportadores não-UE, e taxas ECHA. |
+| [iso9001-sgq](./skills/iso9001-sgq/SKILL.md) | Gestão da Qualidade / SGQ | Sistema multi-agente para ISO 9001:2015 com 8 agentes especializados: não conformidades (NC/CAPA/8D), auditoria interna, controle de documentos, gestão de riscos, calibração metrológica, planejamento estratégico e análise crítica pela direção. |
 
 ---
 
